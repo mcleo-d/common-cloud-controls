@@ -19,15 +19,15 @@
     "prebuild": "npm run fetch:ccc && npm run fetch:cfi && npm run generate:catalogs"
   },
   "dependencies": {
-    "@docusaurus/core": "3.7.0",
-    "@docusaurus/preset-classic": "3.7.0",
+    "@docusaurus/core": "3.10.2",
+    "@docusaurus/preset-classic": "3.10.2",
     "@mdx-js/react": "^3.0.0",
     "@radix-ui/react-accordion": "^1.2.8",
     "@radix-ui/react-avatar": "^1.1.4",
     "@radix-ui/react-slot": "^1.2.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.0.0",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.2.0",
     "lucide-react": "^0.503.0",
     "prism-react-renderer": "^2.3.0",
     "react": "^19.0.0",
@@ -36,7 +36,7 @@
     "tailwind-merge": "^2.2.1",
     "tailwind-variants": "^1.0.0",
     "tailwindcss-animate": "^1.0.7",
-    "uuid": "^11.1.0"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.7.0",
@@ -44,7 +44,7 @@
     "@docusaurus/types": "3.7.0",
     "@types/js-yaml": "^4.0.9",
     "autoprefixer": "^10.4.21",
-    "axios": "^1.8.4",
+    "axios": "^1.16.0",
     "postcss": "^8.4.35",
     "tailwindcss": "^3.4.1",
     "ts-node": "^10.9.2",
